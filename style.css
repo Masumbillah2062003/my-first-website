@@ -1,0 +1,17 @@
+.blog{
+    background-color:aqua;
+    border:5px solid rgb(228, 18, 18);
+    width:50%;
+    border-right-style: dotted;
+    border-left-style: dotted;
+}
+h1{
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(0, 187, 31);
+}
+p{
+    font-weight:bolder;
+    font-size:25px;
+
+}
